@@ -2,8 +2,7 @@
 
 Quasar Framework是vue官网推荐框架，可以在手机、pc、web端使用。
 
-此项目主要涉及前端，响应式布局，vue+vuex+vuerouter，还对axios做了请求拦截，对API进行集中处理。clone安装好以后可以结合后端看演示效果
-
+此项目主要涉及前端，响应式布局，vue+vuex+vuerouter，还对axios做了请求拦截，对API进行集中处理。clone安装好以后可以结合后端看演示效果，后端地址：https://github.com/Mercilessyears/eggjs-jwt
 ## clone地址后安装
 ```bash
 npm install
